@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/th"
+        android:title= "them"/>
+    <item android:id="@+id/cn"
+        android:title= "cap nhap" />
+    <item android:id="@+id/x"
+        android:title= "xoa" />
+</menu>
